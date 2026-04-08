@@ -54,10 +54,6 @@
 |大摩实习值得去吗？主要做的机构业务|求职|
 |出手持蒸汽熨斗 小小的不占地方 没用几次 学校地铁口交收|交易|
 
-### 在线示例
-
-点击[链接](http://tree-hole-judge.tripleuni.com/)，在线体验我们的模型。
-
 ## 部署
 
 克隆仓库到本地
@@ -72,7 +68,7 @@ git clone https://github.com/lststar/Triple-Uni-Topic-Classifier.git
 pip install -r requirements.txt
 ```
 
-[下载数据集](https://drive.google.com/drive/u/1/folders/1VVpugGyS-9-mhkvHh4wTX-feFAt3hEVP)
+[下载数据集](https://drive.google.com/drive/folders/1h4osmNAtKeAAXzvbE35_jw41wuIb3xqA)
 
 使用 `train.ipynb` 训练模型
 

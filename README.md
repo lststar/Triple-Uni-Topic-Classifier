@@ -54,10 +54,6 @@ Please read [our report](report.pdf) for more detail.
 |Is an internship at Morgan Stanley worth it? Mainly involved in institutional business.|Job Hunting|
 |Selling a handheld steam iron, very compact and barely used. Pick up at the subway station near the school.|Trading|
 
-### Online Example
-
-Click [here](http://tree-hole-judge.tripleuni.com/) to experience our model online.
-
 ## Deployment
 
 Clone the repository to your local machine.
@@ -72,7 +68,7 @@ Installation required environment.
 pip install -r requirements.txt
 ```
 
-[Download Dataset.](https://drive.google.com/drive/u/1/folders/1VVpugGyS-9-mhkvHh4wTX-feFAt3hEVP)
+[Download Dataset.](https://drive.google.com/drive/folders/1h4osmNAtKeAAXzvbE35_jw41wuIb3xqA)
 
 Use `train.ipynb` to train the model
 
